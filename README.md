@@ -3,10 +3,10 @@
 This script automates the process of installing pyinstaller within wine
 
 ## Installation
-	```
-	git clone https://github.com/FlynAber/Pyinstaller-within-wine
-	python3 pyinstaller-within-wine-installer.py
-	```
+```
+git clone https://github.com/FlynAber/Pyinstaller-within-wine
+python3 pyinstaller-within-wine-installer.py
+```
 
 ## Why?
 
